@@ -16,7 +16,7 @@ class CalculadoraMedia:
         return sum(self.notas) / 3
 
 if __name__ == "__main__":
-    calculadora = CalculadorMedia()
+    calculadora = CalculadoraMedia()
     try:
         for i in range(1, 4):
             nota = int(input(f"Digite a {i+1}ª nota: "))
