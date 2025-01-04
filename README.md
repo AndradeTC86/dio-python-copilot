@@ -1,5 +1,5 @@
 # dio-python-copilot
-Repositório criado para resolução dos exercícios do desafio de projeto Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python da Formação Github Certification da plataforma DIO
+Repositório criado para resolução dos exercícios do desafio de projeto _Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python_ da ___Formação Github Certification___ da plataforma DIO
 
 ## 1 - Concatenando Dados
 
