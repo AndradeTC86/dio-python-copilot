@@ -1,5 +1,9 @@
 # dio-python-copilot
 Repositório criado para resolução dos exercícios do desafio de projeto _Utilizando as Ferramentas do Github para Solucionar Algoritmos em Python_ da ___Formação Github Certification___ da plataforma DIO
+Após refatoração do diretório, os exercícios foram transformados em classes para permitir a execução dos testes unitários.
+
+Para executar os testes unitários, basta executar o comando `pytest` no terminal.
+Para executar os testes unitários com a cobertura de código, basta executar o comando `pytest --cov=src` no terminal.
 
 ## 1 - Concatenando Dados
 
